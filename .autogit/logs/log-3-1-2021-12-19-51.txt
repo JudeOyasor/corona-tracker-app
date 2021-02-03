@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Wed Feb 03 2021 12:19:51 GMT+0200 (South Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* tsconfig.json
+
+
+Created files:
+* .autogit/autogit.json
+* .eslintcache
+
+
+Deleted files:
+
+
+Renamed files:
